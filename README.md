@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey, I'm ItSus 👋
 
-<!--
-**ItsSus14/ItsSus14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**42 Student · Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I'm learning by building, experimenting, and understanding how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this profile to document my projects, track my progress, and share what I learn along the way.
+
+---
+
+## 🧭 My Journey
+
+| Area | Status |
+|---|---|
+| 42 Common Core | In progress |
+| Software development | Learning by doing |
+| Next goal | Build solid projects and understand every line of code |
+
+## 🛠️ Currently Learning
+
+`C` · `Git` · `Linux` · `Problem Solving`
+
+## 📂 Projects
+
+### Completed
+
+| Project | Description | Grade | Repository |
+|---|---|---|---|
+| **Libft** | Reimplementation of standard C library functions | — | [View code](https://github.com/ItSus14/libft) |
+| **ft_printf** | Custom implementation of printf | — | [View code](https://github.com/ItSus14/ft_printf) |
+| **get_next_line** | Reading lines from a file descriptor | — | [View code](https://github.com/ItSus14/get_next_line) |
+
+### Work in Progress
+
+| Project | Status |
+|---|---|
+| **Minishell** | Planned — rebuilding from scratch |
+
+## 🎯 My Goals
+
+- Write clean, understandable, and maintainable code.
+- Improve my debugging and problem-solving skills.
+- Learn to use Git as part of my daily workflow.
+- Build projects I can confidently explain.
+
+---
+
+*Learning, building, improving — one step at a time.*
