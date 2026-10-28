@@ -26,15 +26,15 @@ I use this profile to document my projects, track my progress, and share what I 
 
 | Project | Description | Grade | Repository |
 |---|---|---|---|
-| **Libft** | Reimplementation of standard C library functions | — | [View code](https://github.com/ItSus14/libft) |
-| **ft_printf** | Custom implementation of printf | — | [View code](https://github.com/ItSus14/ft_printf) |
-| **get_next_line** | Reading lines from a file descriptor | — | [View code](https://github.com/ItSus14/get_next_line) |
-
+| **Libft** | Reimplementation of standard C library functions | 125 | [View code](https://github.com/ItSus14/libft) |
+| **ft_printf** | Custom implementation of printf | 100 | [View code](https://github.com/ItSus14/ft_printf) |
+| **get_next_line** | Reading lines from a file descriptor | 100 | [View code](https://github.com/ItSus14/get_next_line) |
+| **so_long** | A small 2D game using C | 100 | [View code](https://github.com/ItSus14/so_long) |
 ### Work in Progress
 
 | Project | Status |
 |---|---|
-| **Minishell** | Planned — rebuilding from scratch |
+| **Minitalk** | Planned — rebuilding from scratch |
 
 ## 🎯 My Goals
 
