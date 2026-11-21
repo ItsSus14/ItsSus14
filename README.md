@@ -40,7 +40,6 @@ I use this profile to document my projects, track my progress, and share what I 
 
 - Write clean, understandable, and maintainable code.
 - Improve my debugging and problem-solving skills.
-- Learn to use Git as part of my daily workflow.
 - Build projects I can confidently explain.
 
 ---
