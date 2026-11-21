@@ -30,6 +30,8 @@ I use this profile to document my projects, track my progress, and share what I 
 | **ft_printf** | Custom implementation of printf | 100 | [View code](https://github.com/ItsSus14/ft_printf) |
 | **get_next_line** | Reading lines from a file descriptor | 100 | [View code](https://github.com/ItsSus14/get_next_line) |
 | **so_long** | A small 2D game using C | 100 | [View code](https://github.com/ItsSus14/so_long) |
+**C++ Modules 00–04** | OOP in C++98: classes, memory, operator overloading, inheritance, polymorphism | X | [View code](https://github.com/ItsSus14/CPP) |
+
 ### Work in Progress
 
 | Project | Status |
